@@ -1,0 +1,13 @@
+package lab2;
+
+public class person {
+	String name,add,phoneno,email;
+	public person(String name,String add,String phoneno,String email)
+	{
+		this.name=name;
+		this.add=add;
+		this.phoneno=phoneno;
+		this.email=email;
+	}
+
+}

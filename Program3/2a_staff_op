@@ -1,0 +1,7 @@
+package lab2;
+
+public interface staff_op {
+	public void calc_salary();
+
+}
+

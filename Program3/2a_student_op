@@ -1,0 +1,10 @@
+package lab2;
+
+public interface student_op {
+	public void calc_fees();
+
+}
+
+
+
+
